@@ -1,0 +1,31 @@
+{
+  "short_name": "BeBTR",
+  "name": "BeBTR: Preventive Fitness Futures",
+  "description": "AI-assisted posture correction and wearable-driven feedback for safer, more preventive fitness environments.",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ],
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#0F2540",
+  "background_color": "#F6F8FB",
+  "orientation": "portrait-primary",
+  "categories": ["health", "fitness", "innovation"]
+}
