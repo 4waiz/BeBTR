@@ -1,0 +1,142 @@
+1
+00:00:03,500 --> 00:00:05,900
+Assalamualaikum wa rahmatullahi
+wa barakatuh.
+
+2
+00:00:05,900 --> 00:00:09,340
+Hi, I'm Awaiz Ahmed, a software engineer
+and co-founder of Team Limitless.
+
+3
+00:00:09,340 --> 00:00:12,600
+Our project, BeBTR, is an award-winning
+AI fitness application,
+
+4
+00:00:12,600 --> 00:00:16,700
+developed for the Smart Health Hackathon
+powered by startAD
+
+5
+00:00:16,700 --> 00:00:21,060
+and the Department of Health – Abu Dhabi,
+
+6
+00:00:21,060 --> 00:00:23,100
+where we won First Place.
+
+7
+00:00:23,100 --> 00:00:26,440
+Today, millions of people exercise
+without proper feedback.
+
+8
+00:00:26,440 --> 00:00:31,640
+They may perform movements incorrectly,
+build unsafe habits,
+
+9
+00:00:31,640 --> 00:00:35,100
+or only realise something is wrong
+after pain or injury appears.
+
+10
+00:00:35,100 --> 00:00:39,300
+BeBTR asks a foresight question:
+
+11
+00:00:39,300 --> 00:00:45,600
+What if the gym of the future could
+prevent injury before it happens?
+
+12
+00:00:45,600 --> 00:00:51,700
+BeBTR uses AI, computer vision, and
+wearable-data concepts
+
+13
+00:00:51,700 --> 00:00:54,900
+to give real-time posture correction
+and adaptive training feedback.
+
+14
+00:00:54,900 --> 00:00:57,720
+Instead of generic workout advice,
+
+15
+00:00:57,720 --> 00:01:01,500
+BeBTR helps users understand how they move,
+and correct mistakes instantly,
+
+16
+00:01:01,500 --> 00:01:04,300
+and train in a safer,
+more personalised way.
+
+17
+00:01:04,300 --> 00:01:09,900
+It is designed for a future where gyms,
+schools, workplaces,
+
+18
+00:01:09,900 --> 00:01:14,700
+and community wellness spaces can offer
+intelligent preventive coaching to everyone.
+
+19
+00:01:14,700 --> 00:01:16,520
+Over the next 10 years,
+
+20
+00:01:16,520 --> 00:01:22,700
+BeBTR can help shift fitness from reactive
+treatment to proactive prevention.
+
+21
+00:01:22,700 --> 00:01:26,700
+This means fewer preventable injuries,
+safer exercise habits,
+
+22
+00:01:26,700 --> 00:01:29,860
+and better access to guidance for people
+who cannot always afford
+
+23
+00:01:29,860 --> 00:01:32,700
+a personal trainer
+or specialist support.
+
+24
+00:01:32,700 --> 00:01:35,500
+Our vision is not only to build an app,
+
+25
+00:01:35,500 --> 00:01:39,500
+but to help shape a future where everyday
+movement becomes smarter, safer,
+
+26
+00:01:39,500 --> 00:01:41,820
+and more human-centred.
+
+27
+00:01:41,820 --> 00:01:47,500
+BeBTR shows how foresight, AI, and
+human-centred design can come together
+
+28
+00:01:47,500 --> 00:01:49,900
+to improve wellbeing
+before problems begin.
+
+29
+00:01:49,900 --> 00:01:52,500
+We are Team Limitless,
+and our mission is simple:
+
+30
+00:01:52,500 --> 00:01:54,900
+help people move better, train safer,
+and build a healthier future.
