@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import Reveal from '../Reveal';
 
 const SectionEl = styled.section`
   padding: 5rem 1.5rem;
@@ -46,13 +47,13 @@ function Section({ id, eyebrow, title, lede, alt = false, children }) {
     <SectionEl id={id} $alt={alt}>
       <Container>
         {(eyebrow || title || lede) && (
-          <HeaderRow>
+          <Reveal as={HeaderRow}>
             {eyebrow && <Eyebrow>{eyebrow}</Eyebrow>}
             {title && <Title>{title}</Title>}
             {lede && <Lede>{lede}</Lede>}
-          </HeaderRow>
+          </Reveal>
         )}
-        {children}
+        <Reveal delay={0.08}>{children}</Reveal>
       </Container>
     </SectionEl>
   );
