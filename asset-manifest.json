@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/BeBTR/static/js/main.daccfbf5.js",
+    "main.js": "/BeBTR/static/js/main.d9ca3911.js",
     "static/media/App.png": "/BeBTR/static/media/App.615bdbd389042f3f0433.png",
     "static/media/logo.png": "/BeBTR/static/media/logo.5b329cbb3da18e19f597.png",
     "static/media/cheque-solo.jpg": "/BeBTR/static/media/cheque-solo.bbfd81ed8bb316bf3f43.jpg",
@@ -8,9 +8,9 @@
     "static/media/cheque-team.jpg": "/BeBTR/static/media/cheque-team.4a1ea6b9a3242c32539c.jpg",
     "static/media/certificate.jpeg": "/BeBTR/static/media/certificate.0fba9fa725301f09ca39.jpeg",
     "index.html": "/BeBTR/index.html",
-    "main.daccfbf5.js.map": "/BeBTR/static/js/main.daccfbf5.js.map"
+    "main.d9ca3911.js.map": "/BeBTR/static/js/main.d9ca3911.js.map"
   },
   "entrypoints": [
-    "static/js/main.daccfbf5.js"
+    "static/js/main.d9ca3911.js"
   ]
 }
