@@ -11,7 +11,7 @@ const HeaderContainer = styled.header`
   width: 100%;
   z-index: 1000;
   background-color: ${({ $scrolled }) =>
-    $scrolled ? 'rgba(255, 255, 255, 0.96)' : 'rgba(255, 255, 255, 0.92)'};
+    $scrolled ? 'rgba(255, 255, 255, 0.5)' : 'rgba(255, 255, 255, 0.5)'};
   backdrop-filter: saturate(180%) blur(10px);
   border-bottom: 1px solid ${({ theme }) => theme.colors.border};
   transition: all 0.25s ease;
